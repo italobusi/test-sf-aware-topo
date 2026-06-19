@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: Routing
-workgroup: TEAS Working Group
+area: "Routing"
+workgroup: "Traffic Engineering Architecture and Signaling"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Traffic Engineering Architecture and Signaling"
+  type: "Working Group"
+  mail: "teas@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/teas/"
+  github: "italobusi/test-sf-aware-topo"
+  latest: "https://italobusi.github.io/test-sf-aware-topo/draft-ietf-teas-sf-aware-topo-model.html"
 
 author:
  -
