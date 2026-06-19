@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "SF Aware TE Topology YANG Model"
+abbrev: "SF Aware Topo YANG Model"
+category: std
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-teas-sf-aware-topo-model-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: Routing
+workgroup: TEAS Working Group
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Xufeng Liu
+    organization: Individual
+    email: xufeng.liu.ietf@gmail.com
 
 normative:
 
